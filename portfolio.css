@@ -1,0 +1,91 @@
+.heading-container{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+.name{
+    font-size: 30px;
+}
+
+.header-options{
+    float: right;
+    margin-top: 10px;
+    color: rgb(204, 200, 200);
+}
+
+.random{
+    margin-left: 10px;
+    text-decoration-color: rgb(204, 200, 200);
+}
+
+.image{
+    margin: 5%;
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+.name-image{
+    font-size: 50px;
+    margin-left: 10%;
+}
+
+.university-image{
+    margin-left: 10%;
+    color: rgb(76, 230, 254);
+    font-size: 18px;
+}
+
+.icon{
+    margin-top: 10px;
+    margin-left: 10%;
+    font-size: 30px;
+}
+
+.adjust{
+    display: flex;
+    margin-top: 10px;
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.icon-git{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.icon-insta{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.icon-twitter{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+}
+
+.icon-email{
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 28px;
+}
+
+.parent{
+    display: flex;
+}
+
+ul{
+    margin-left: 40px;
+    font-size: 18px;
+}
+
+.details{
+    margin-left: 40px;
+    font-size: 18px;
+}
